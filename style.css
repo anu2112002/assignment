@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body {
+  font-family: 'Raleway', sans-serif !important;
+}
+
+#bottom {
+  height: 5rem;
+  width: 88rem;
+}
+
+.ajust-line-height {
+  line-height: 1em;
+}
+
+#bottombox {
+  height: 2rem;
+  width: 100em;
+  
+}
+
+#bottomrec {
+  height: 4rem;
+  width: 85em;
+}
+
+.crd {
+  height: 540px;
+  width: 250px;
+}
+
+.logo {
+  height: 80px;
+  width: 80px;
+}
+
+.flg {
+  width: 100%;
+}
+
+.wal {
+  width: 95rem;
+}
